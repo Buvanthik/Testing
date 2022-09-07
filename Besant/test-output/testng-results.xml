@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T07:37:59 IST" name="Default suite" finished-at="2022-09-05T07:37:59 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T07:37:59 IST" name="Default test" finished-at="2022-09-05T07:37:59 IST" duration-ms="80">
+      <class name="pom.besant.Besant.Testing">
+        <test-method signature="addToCart()[pri:0, instance:pom.besant.Besant.Testing@1725dc0f]" started-at="2022-09-05T07:37:59 IST" name="addToCart" finished-at="2022-09-05T07:37:59 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="login()[pri:0, instance:pom.besant.Besant.Testing@1725dc0f]" started-at="2022-09-05T07:37:59 IST" name="login" finished-at="2022-09-05T07:37:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchProduct()[pri:0, instance:pom.besant.Besant.Testing@1725dc0f]" started-at="2022-09-05T07:37:59 IST" name="searchProduct" finished-at="2022-09-05T07:37:59 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- pom.besant.Besant.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
